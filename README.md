@@ -2,7 +2,7 @@
 
 Tentando criar um App responsivo
 
-## Getting Started
+## Primeiros passos
 
 This project is a starting point for a Flutter application.
 
