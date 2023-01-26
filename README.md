@@ -1,6 +1,6 @@
 # Teste de Aplicativo
 
-A new Flutter project.
+Tentando criar um App responsivo
 
 ## Getting Started
 
