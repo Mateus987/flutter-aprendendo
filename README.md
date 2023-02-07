@@ -1,6 +1,6 @@
 # Teste de Aplicativo
 
-Tentando criar um App responsivo
+Aprendento a usar o SDK do Dart
 
 ## Primeiros passos
 
