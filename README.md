@@ -1,6 +1,6 @@
 # Flutter Aprendendo
 
-Aprendento a usar o SDK do Dart
+Aprendento o Dart
 
 ## Documentação
 
